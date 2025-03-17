@@ -1,0 +1,54 @@
+body { /* Фон */
+    background-color: #7FFFD4;	
+    }
+    
+    header { /* Шапка */
+    background-color: #00FF00;
+    }
+    
+    header title {
+    background-color: #00FF00;
+    }
+    
+    header description {
+    background-color: #00FF00;
+    }
+    
+    header logo {
+    background-color: #00FF00;
+    }
+    
+    main { /* Тело статьи */
+        background-color: #D8BFD8;
+        margin-right: 15%; /* Отступ справа */
+        margin-left: 15%; /* Отступ слева */
+    }
+    
+    nav { /* Горизонтальное меню */
+        background-color: #FFB6C1;	
+    }
+    
+    aside { /* Боковая колонка */
+        background-color: #DDA0DD;	
+    }
+    
+    section { /* Блок в боковом меню */
+        background-color: #FFFF00;
+        margin: 1%; 
+    }
+    
+    .news > section > h2 { /* Заголовок блоков в колоке */
+        background-color: #9400D3;
+        text-decoration: underline;
+    }
+    
+    
+    
+    footer { /* Подвал сайта */
+        background-color: #9400D3;	
+    }
+    
+    
+    
+    
+    
